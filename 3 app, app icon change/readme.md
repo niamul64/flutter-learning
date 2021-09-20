@@ -1,3 +1,9 @@
+### change icon of app
+
+### got to url : appicon.co
+<br>
+<img width="250px" src= "icon generator.JPG"/> <br>
+<br><br>
 import 'package:flutter/material.dart';
 
 <br>
