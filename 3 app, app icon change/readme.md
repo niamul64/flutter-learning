@@ -8,9 +8,9 @@
 
 
 <img width="" src= "place icon in project.JPG"/>
-<img width="450px" src= "for android icon.JPG"/>
+<img width="500px" src= "for android icon.JPG"/>
 
-<img width="450px" src= "for ios icon.JPG"/>
+<img width="500px" src= "for ios icon.JPG"/>
 
 
 
