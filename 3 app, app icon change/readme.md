@@ -2,8 +2,29 @@
 
 ### got to url : appicon.co
 <br>
-<img width="250px" src= "icon generator.JPG"/> <br>
+<img width="450px" src= "icon generator.JPG"/> <br>
 <br><br>
+## stract the zip file 
+
+
+<img width="" src= "place icon in project.JPG"/>
+<img width="250px" src= "for android icon.JPG"/>
+
+<img width="250px" src= "flutter settings change for image directory 2.JPG"/>
+
+<img width="250px" src= "incorporate the imag.JPG"/>
+
+
+<img width="250px" src= "add img in main.JPG"/>
+
+<img width="250px" src= "final.JPG"/>
+
+
+
+<br>
+
+##  code:<br>
+
 import 'package:flutter/material.dart';
 
 <br>
@@ -57,15 +78,3 @@ void main() {
 
 <br>
 
-<img width="" src= "image directory.JPG"/>
-
-
-<img width="250px" src= "flutter settings change for image directory.JPG"/>
-<img width="250px" src= "flutter settings change for image directory 2.JPG"/>
-
-<img width="250px" src= "incorporate the imag.JPG"/>
-
-
-<img width="250px" src= "add img in main.JPG"/>
-
-<img width="250px" src= "final.JPG"/>
