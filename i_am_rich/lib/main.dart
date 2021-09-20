@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp //material class
         (
-      //poperty
+//poperty
       home: Scaffold(
         backgroundColor: Colors.white70, //back ground color poperty
         appBar: AppBar(
@@ -12,11 +12,11 @@ void main() {
           backgroundColor: Colors.red,
           centerTitle: true,
         ),
-        body: Center(
+        body: const Center(
           child: Image(
-            //image wegit
-            image: NetworkImage(
-                'https://image.shutterstock.com/image-photo/northern-lights-above-reykjavik-iceland-260nw-176694704.jpg'),
+                  //image wegit
+            image:
+                  AssetImage('images/172780.jpg'),
           ),
         ),
       ),
