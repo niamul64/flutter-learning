@@ -8,16 +8,10 @@
 
 
 <img width="" src= "place icon in project.JPG"/>
-<img width="250px" src= "for android icon.JPG"/>
+<img width="450px" src= "for android icon.JPG"/>
 
-<img width="250px" src= "flutter settings change for image directory 2.JPG"/>
+<img width="450px" src= "for ios icon.JPG"/>
 
-<img width="250px" src= "incorporate the imag.JPG"/>
-
-
-<img width="250px" src= "add img in main.JPG"/>
-
-<img width="250px" src= "final.JPG"/>
 
 
 
