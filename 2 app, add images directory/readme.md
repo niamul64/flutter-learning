@@ -1,55 +1,55 @@
+```
 import 'package:flutter/material.dart';
 
-<br>
-<br>
-void main() {
-<br>
-  runApp(
-<br>
-    MaterialApp //material class
-<br>
-        (
-<br>
-//poperty
-<br>
-      home: Scaffold(
-<br>
-        backgroundColor: Colors.white70, //back ground color poperty
-<br>
-        appBar: AppBar(
-<br>
-          title: Text('i am Rich'), //wigets
-<br>
-          backgroundColor: Colors.red,
-<br>
-          centerTitle: true,
-<br>
-        ),
-<br>
-        body: const Center(
-<br>
-          child: Image(
-<br>
-                  //image wegit
-<br>
-            image:
-<br>
-                  AssetImage('images/172780.jpg'),
-<br>
-         ),
-<br>
-        ),
-<br>
-      ),
-<br>
-    ),
-<br>
-  );
-<br>
-}
-<br>
 
-<br>
+void main() {
+
+  runApp(
+
+    MaterialApp //material class
+
+        (
+
+//poperty
+
+      home: Scaffold(
+
+        backgroundColor: Colors.white70, //back ground color poperty
+
+        appBar: AppBar(
+
+          title: Text('i am Rich'), //wigets
+
+          backgroundColor: Colors.red,
+
+          centerTitle: true,
+
+        ),
+
+        body: const Center(
+
+          child: Image(
+
+                  //image wegit
+
+            image:
+
+                  AssetImage('images/172780.jpg'),
+
+         ),
+
+        ),
+
+      ),
+
+    ),
+
+  );
+
+}
+
+
+```
 
 <img width="" src= "image directory.JPG"/>
 
