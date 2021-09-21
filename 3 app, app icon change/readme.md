@@ -72,3 +72,8 @@ void main() {
 
 <br>
 
+
+
+### to resize the icon in android: go to 'project' bar, android->app->src->main->res
+### right clic on "res" = new -> image asset 
+
