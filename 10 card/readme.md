@@ -1,0 +1,1 @@
+### card don't have a 'padding' element.
