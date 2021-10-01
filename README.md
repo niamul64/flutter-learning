@@ -11,3 +11,10 @@ url: https://pub.dev/flutter/packages
 
 
 # https://flutter.dev/docs/cookbook
+
+
+
+# HTTP for API: https://pub.dev/packages/http/install
+
+
+# see many packages: https://pub.dev/packages/
